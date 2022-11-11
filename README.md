@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Java testing and Python!**
 
-- 👨‍💻 All of my projects are available at [https://kgio.dev](https://kgio.dev)
+- 👨‍💻 All of my projects are available on my portfolio website [kgio.dev](https://kgio.dev)
 
 - 💬 Ask me about **react and I will do my best!**
 
 - 📫 How to reach me **konstantinos.giovanitsas@yahoo.com**
 
-- 📄 Know about my experiences [https://mega.nz/file/tN1ijTbb#Cy6-jmWSKQn_rbgcOq19FrvSJ_M98avaXaju55J_vYM](https://mega.nz/file/tN1ijTbb#Cy6-jmWSKQn_rbgcOq19FrvSJ_M98avaXaju55J_vYM)
+- 📄 Take a look at my resume [CV](https://mega.nz/file/tN1ijTbb#Cy6-jmWSKQn_rbgcOq19FrvSJ_M98avaXaju55J_vYM)
 
 - ⚡ Fun fact **I love killing 'bugs'!**
 
