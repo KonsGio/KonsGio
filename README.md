@@ -2,7 +2,7 @@
 <h3 align="center">I am from Greece and I live in Netherlands</h3>
 
 
-- 🌱 I’m currently learning **Java testing and Python!**
+- 🌱 I’m currently practicing **Java and Python!**
 
 - 👨‍💻 All of my projects are available on my portfolio website [kgio.dev](https://kgio.dev)
 
