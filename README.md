@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **konstantinos.giovanitsas@yahoo.com**
 
-- 📄 Take a look at my resume [CV](https://mega.nz/file/tN1ijTbb#Cy6-jmWSKQn_rbgcOq19FrvSJ_M98avaXaju55J_vYM)
+- 📄 Take a look at my resume [CV](https://mega.nz/file/EA1AHBCS#vC9NaguLb-eyJrEI1znGi8PBFFTEa20h_Q5BLmM4KuM)
 
 - ⚡ Something fun about me **I love killing 'bugs'!**
 
