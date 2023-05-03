@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **react and I will do my best!**
 
-- 📫 How to reach me **konstantinos.giovanitsas@yahoo.com**
+<!-- - 📫 How to reach me **konstantinos.giovanitsas@yahoo.com**
 
-- 📄 Take a look at my resume [CV]()
+- 📄 Take a look at my resume [CV]() -->
 
 - ⚡ Something fun about me **I love killing 'bugs'!**
 
